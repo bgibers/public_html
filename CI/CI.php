@@ -8,10 +8,6 @@ table, th, td {
 </style>
 </head>
 <body>
-	<form action="/CRTINQ/search.php" method="GET">
-		<input type="text" name="query" />
-		<input type="submit" value="Search" />
-	</form>
 
 <?php
 $servername = "mysql1.cs.clemson.edu";
